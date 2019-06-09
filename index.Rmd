@@ -1,0 +1,14 @@
+---
+title: "Tidy Tuesday"
+author: "Emma McLarnon"
+date: "8 June 2019"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+
+In an attempt to learn more R skills and pracrice more data visualisations, here are my attempts at Tidy Tuesday.  
+
+# [Ramen](https://emmamclarnon.github.io/tidy_tuesday/ramen_tidy.html)

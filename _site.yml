@@ -1,0 +1,8 @@
+name: "my-website"
+navbar:
+  title: "Tidy Tuesday"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Ramen"
+      href: ramen_tidy.html
